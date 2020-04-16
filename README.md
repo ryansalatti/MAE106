@@ -1,7 +1,7 @@
 The code of the simulation package given in MAE106 has been modified as following:
 
 - Will run through 20 simulations in each of the three modes of control systems (60 simulations total)
-- Each simulation is run on each of your CPU's cores.
+- Each simulation is run on each of your CPU's cores (threading sims).
 - Automatically logs the robot score into an array and exports the result into a CSV
 - Removed GUI interface showing the robot running through the simulation
 
